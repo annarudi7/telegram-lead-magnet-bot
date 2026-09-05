@@ -1,2 +1,19 @@
-# telegram-lead-magnet-bot
-Telegram lead-magnet bot for collecting contacts and sending digital materials. Built with Node.js and node-telegram-bot-api
+# Telegram Lead-Magnet Bot
+
+Функциональный Telegram-бот для автоматизации сбора контактов (лидогенерации) и выдачи цифровых материалов (лид-магнитов).
+
+## 🚀 Функционал
+* Приветственное сообщение с Inline-кнопкой запуска.
+* Пошаговый сбор данных пользователя (Имя, Телефон/Email).
+* Автоматическая выдача ссылки на полезный материал (гайд/PDF).
+* Мгновенное уведомление администратора о новой заявке с контактами пользователя.
+
+## 🛠 Технологии
+* **Node.js**
+* **node-telegram-bot-api** — взаимодействие с Telegram Bot API
+* **dotenv** — безопасное управление переменными окружения
+
+## 🔧 Локальный запуск
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/annarudi7/telegram-lead-magnet-bot.git
