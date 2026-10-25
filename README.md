@@ -14,6 +14,5 @@
 * dotenv — безопасное управление переменными окружения
 
 Локальный запуск
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/annarudi7/telegram-lead-magnet-bot.git
+1. Клонируйте репозиторий:  https://github.com/annarudi7/telegram-lead-magnet-bot.git
+  
